@@ -112,13 +112,3 @@ http://localhost:5173
 
 ---
 
-## 👩‍💻 Author
-
-**Kavyashi Trar**
-Computer Science Student
-
----
-
-## 📄 License
-
-This project is for educational purposes.
