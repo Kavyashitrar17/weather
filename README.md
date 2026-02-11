@@ -1,4 +1,4 @@
-# 🌦️ Live Weather App (React + Vite)
+# 🌦️ SkyArchive
 
 A modern responsive weather web application built using **React.js**.
 The app allows users to search any city and view current weather conditions along with a 5-day forecast.
